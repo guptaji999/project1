@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from 'react'
 import { Link } from 'react-router-dom'
-import shreeJi from '../assets/shree ji .jpeg'
+import shreeJi from '../assets/shreeji.png'
 import BusinessCard from '../components/BusinessCard'
 
 // Animated counter hook
